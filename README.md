@@ -1,6 +1,6 @@
 # Padrão de verificação de segurança de aplicações
 
-![image](https://github.com/AndreCoutinhom/owasp-application/assets/91290799/2dc4bafd-a98b-4dae-8a67-baf15c107364)
+![image](https://github.com/AndreCoutinhom/owasp-application/assets/91290799/0f576689-4634-4e27-84ed-5f78d15bcd5e)
 
 Agora que conhecemos toda a lista do OWASP Top 10, pensando nesses itens, vamos passar a ver o padrão de verificação de segurança de aplicações de cada item da lista, e formas de resolver esses problemas.
 
